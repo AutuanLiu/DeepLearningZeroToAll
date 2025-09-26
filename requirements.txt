@@ -1,4 +1,4 @@
-Keras==2.0.2
+Keras==3.11.3
 matplotlib==2.0.0
 numpy==1.12.1
 tensorflow==1.0.0
